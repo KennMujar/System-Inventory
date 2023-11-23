@@ -3,17 +3,17 @@ Store Stocks Items and List of Order
 
 # PLANNING
 
-![](Planning/10.png)
+![](System-Details/10.png)
 
-![](Planning/11.png)
+![](System-Details/11.png)
 
-![](Planning/12.png)
+![](System-Details/12.png)
 
-![](Planning/13.png)
+![](System-Details/13.png)
 
-![](Planning/14.png)
+![](System-Details/14.png)
 
-![](Planning/15.png)
+![](System-Details/15.png)
 
-![](Planning/16.png)
+![](System-Details/16.png)
 
