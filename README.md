@@ -1,5 +1,5 @@
 # System-Inventory
-Store Stocks and List of Order
+Store Stocks Items and List of Order
 
 # PLANNING
 
